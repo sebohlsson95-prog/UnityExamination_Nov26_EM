@@ -951,7 +951,7 @@ GameObject:
   - component: {fileID: 741645605}
   - component: {fileID: 741645604}
   m_Layer: 0
-  m_Name: StoneGround (1)
+  m_Name: StoneGround_PlatformFirst
   m_TagString: Stone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1509,7 +1509,7 @@ GameObject:
   - component: {fileID: 1614843106}
   - component: {fileID: 1614843105}
   m_Layer: 0
-  m_Name: StoneGround (2)
+  m_Name: StoneGround_PlatformSecond
   m_TagString: Stone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1647,7 +1647,7 @@ GameObject:
   - component: {fileID: 1673182516}
   - component: {fileID: 1673182515}
   m_Layer: 0
-  m_Name: GrassGround (2)
+  m_Name: GrassGround_Ending
   m_TagString: Grass
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3752,7 +3752,7 @@ GameObject:
   - component: {fileID: 2046770410}
   - component: {fileID: 2046770409}
   m_Layer: 0
-  m_Name: GrassGround (1)
+  m_Name: GrassGround_Second
   m_TagString: Grass
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
